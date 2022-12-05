@@ -63,7 +63,7 @@
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[3072,959]}},
 {"type":"Feature","properties":
-    {"id":7,
+    {"id":8,
     "chapter":"Chapter 8: References",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
@@ -72,7 +72,7 @@
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[3072,959]}},
 {"type":"Feature","properties":
-    {"id":7,
+    {"id":9,
     "chapter":"Chapter 9: Cite this",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
