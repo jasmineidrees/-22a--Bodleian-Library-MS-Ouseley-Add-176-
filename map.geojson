@@ -10,7 +10,7 @@
     "geometry":{"type":"Point","coordinates":[2517,2376]}},
   {"type":"Feature","properties":
     {"id":2,
-    "chapter":"Chapter 2: Clouds",
+    "chapter":"Chapter 2: The Folio",
     "zoom":5,
     "image":"img/pictorial-st-louis-1832.png",
     "source-credit":"Source: Library of Congress",
@@ -19,7 +19,7 @@
     "geometry":{"type":"Point","coordinates":[928,4691]}},
   {"type":"Feature","properties":
     {"id":3,
-    "chapter":"Chapter 3: Rock",
+    "chapter":"Chapter 3: Characterization of Jamshed",
     "zoom":4,
     "image":"img/pictorial-st-louis-water-works.png",
     "source-credit":"Source: StLouis-MO.gov",
@@ -28,7 +28,7 @@
     "geometry":{"type":"Point","coordinates":[3654,5944]}},
   {"type":"Feature","properties":
     {"id":4,
-    "chapter":"Chapter 4: Bird",
+    "chapter":"Chapter 4: Jamshed’s Crafts",
     "zoom":5,
     "image":"img/pictorial-st-louis-insane-asylum-03.png",
     "source-credit":"Source: Eric Erickson via Ancestry.com",
@@ -37,7 +37,7 @@
     "geometry":{"type":"Point","coordinates":[2230,3033]}},
   {"type":"Feature","properties":
     {"id":5,
-    "chapter":"Chapter 5: Flags & Standards",
+    "chapter":"Chapter 5: The Colorings of Jamshed",
     "zoom":3,
     "image":"img/pictorial-st-louis-cemetery.png",
     "source-credit":"Source: Library of Congress",
@@ -46,7 +46,7 @@
     "geometry":{"type":"Point","coordinates":[3558,2705]}},
   {"type":"Feature","properties":
     {"id":6,
-    "chapter":"Chapter 6: Flowers",
+    "chapter":"Chapter 6: The Role of Nature",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
@@ -55,7 +55,7 @@
     "geometry":{"type":"Point","coordinates":[3072,959]}},
  {"type":"Feature","properties":
     {"id":7,
-    "chapter":"Chapter 7: Flowers",
+    "chapter":"Chapter 7: Jamshed’s Labor Force",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
