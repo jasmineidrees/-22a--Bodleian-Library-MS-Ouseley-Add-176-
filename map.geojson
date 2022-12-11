@@ -11,7 +11,7 @@
   {"type":"Feature","properties":
     {"id":2,
     "chapter":"Chapter 2: The Folio",
-    "zoom":5,
+    "zoom":1,
     "image":"img/pictorial-st-louis-1832.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
@@ -51,7 +51,7 @@
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
+    "description":"\"The illustration of the environment surrounding Jamshed and his workers is observably minimalist, the only other visual element within the background is a beautifully healthy large tree that is interwoven with the manuscript text. Due to the lack of visual obstruction from other potential elements, the presence of the tree becomes symbolic and may be used to allude to other thematic elements within this folio. The abundance that this tree is blooming in, is representative of the life that Jamshed’s leadership at the time blew into his subjects. It is indicative of a grounded era of peace that is currently being tended to by Jamshed. The Iranian characterization of trees represents it as a symbol of life within the universe, and within Iranian art the nature in which a tree is represented is a tool that is used to demonstrate the underlying thematic tensions (whether negative or positive) (Paykareah, 2021). Another belief on the symbolism of trees is that they are capable of transcending dimensions because of the fact that they are rooted in the earth and touch the sky (Paykareah, 2021). This mysticism is able to translate to the spiritual sorcery that Jamshed masters and uses to for the betterment of his environment. The vitality of Jamshed’s reign is reflected in his surroundings, and especially in the vibrancy of nature.\" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[3072,959]}},
  {"type":"Feature","properties":
     {"id":7,
