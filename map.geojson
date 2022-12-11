@@ -56,12 +56,12 @@
  {"type":"Feature","properties":
     {"id":7,
     "chapter":"Chapter 7: Jamshed’s Labor Force",
-    "zoom":5,
+    "zoom":3,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
-    "geometry":{"type":"Point","coordinates":[3072,959]}},
+    "description":"\"The unification of Jamshed’s labor force was done through their free will, and their willingness to participate in the betterment of their nation. Within this folio, their hard work is exemplified through their dedication to their respective crafts and the reverence their body language holds for Jamshed.Through colour used with imagery we were able to discern the underlying symbolic themes of the characterization of Jamshed, branching off from that sentiment similar inferences can be made of the colors used to represent Jamshed’s labor force. The most significant implication of the use of color, is that all of the other characters within this folio are wearing  mutable colors besides Jamshed and the man hanging the pressed silk. Because of the previously asserted connotations of blue representing treachery, it seems to me that the character besides Jamshed is representing the manifestation of his greed following the ability to produce luxurious goods (Soucek, 2011). This does not mean that the man himself is treacherous, but he allegorically represents the seizure of greed that befalls Jamshed once he starts to lust after luxury and power. Another increasingly relevant relation of Jamshed’s workforce is to the development of the Hindu Vedas. His story culturally transmits, and he is referred to as King Yama, responsible for classifying society into the 4 guilds that are reflected within their caste system. King Jamshed (King Yama) is responsible for developing the framework and practices that set up the deep inner workings of Aryaan history (Eduljee).\""},
+    "geometry":{"type":"Point","coordinates":[1019,2880]}},
 {"type":"Feature","properties":
     {"id":8,
     "chapter":"Chapter 8: References",
